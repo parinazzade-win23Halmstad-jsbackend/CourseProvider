@@ -1,6 +1,4 @@
-﻿
-
-using CourseProvider.Infrastructure.Models;
+﻿using CourseProvider.Infrastructure.Models;
 using CourseProvider.Infrastructure.Services;
 
 namespace CourseProvider.Infrastructure.GraphQL.Mutation;
